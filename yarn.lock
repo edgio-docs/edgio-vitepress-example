@@ -253,10 +253,10 @@
     "@docsearch/css" "3.0.0-alpha.42"
     algoliasearch "^4.0.0"
 
-"@layer0/cli@^4.13.9":
-  version "4.13.9"
-  resolved "https://registry.yarnpkg.com/@layer0/cli/-/cli-4.13.9.tgz#bf9a594d972b108f783248021f47f85e41544dfa"
-  integrity sha512-E7H09vuHi0KHprFaDklQ1A68SJKJDzd4pFUI8wueqgQKA03ZNs3eJg6Pe/ipqCC9YbBMO4r1yQnoDWRV3aeB/g==
+"@layer0/cli@^4.18.1":
+  version "4.18.1"
+  resolved "https://registry.yarnpkg.com/@layer0/cli/-/cli-4.18.1.tgz#cd4e4b0eb2bc1c4b4a5b3b1c4ab6969a577dd54f"
+  integrity sha512-Xe63Lmdu3yoDCV71rNeti6OrDNyE/lRpOAj9dg+PZQKI+xbLbd0ExYltSkwVdVfwRY9nuuJjuXnRquvYcBWubw==
   dependencies:
     axios "^0.21.2"
     chalk "^4.1.2"
